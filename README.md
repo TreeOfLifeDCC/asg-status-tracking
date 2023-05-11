@@ -1,4 +1,4 @@
-# DToL status tracking API schema
+# ASG status tracking API schema
 
 1. API will accept statuses updates through POST request with json file having 
 following format:
